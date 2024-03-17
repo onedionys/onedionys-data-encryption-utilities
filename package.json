@@ -1,0 +1,36 @@
+{
+  "name": "onedionys-data-encryption-utilities",
+  "version": "1.0.0",
+  "description": "One Dionys (Data Encryption Utilities) - Functions to securely encrypt and decrypt data in web applications, protecting sensitive user data.",
+  "main": "src/encryptionUtils.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-data-encryption-utilities.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager",
+    "data-encryption-utilities"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-data-encryption-utilities/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-data-encryption-utilities#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21"
+  }
+}
