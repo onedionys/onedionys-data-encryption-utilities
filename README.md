@@ -50,6 +50,7 @@ console.log('Decrypted Data:', decryptedData);
 * v1.0.0 : 18 March 2024
 * v1.0.1 : 18 March 2024
 * v1.0.2 : 31 March 2024
+* v5.0.0 : 31 March 2024
 
 ## 🧑 Author
 
