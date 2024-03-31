@@ -1,6 +1,6 @@
 {
   "name": "onedionys-data-encryption-utilities",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "One Dionys (Data Encryption Utilities) - Functions to securely encrypt and decrypt data in web applications, protecting sensitive user data.",
   "main": "src/encryptionUtils.js",
   "directories": {
